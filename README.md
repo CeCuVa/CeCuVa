@@ -1,9 +1,11 @@
+![4FB4](https://github.com/CeCuVa/CeCuVa/assets/134743970/3ac047af-24ea-4a8b-8e4b-7b839178628d)
 - 👋 Hi, I’m Cesar
 - 👀 I am interested in the development of software, mobile applications and desktop applications
-- 🌱 I’m currently learning  backend/java
+- 🌱 I’m currently learning  backend/java                                                         
 - 🌱 I have knowledge frontend/javascript
 - 📫
-- <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+
+
 
 
 
